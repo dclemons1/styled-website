@@ -1,0 +1,107 @@
+#div1 {
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 50%;
+    right: 50%;
+
+ }
+ .circle {
+     height: 100%;
+     width: 100%;
+     background-color: orange;
+     border-radius: 50%;
+     margin: auto;
+     display: flex;
+    justify-content: center;
+    align-items: center
+   
+ }
+ #div2{
+     background-color: blue;
+     position: absolute;
+     right: 0;
+     top: 0%;
+     bottom: 50%;
+     left: 50%;
+ }
+ #div3 {
+     background-color: green;
+     position: absolute;
+     height: 50%;
+     width: 50%;
+     bottom: 0;
+     left: 0;
+ }
+ #div4 {
+     background-color: purple;
+     height: 50%;
+     width: 50%;
+     position: absolute;
+     bottom: 0;
+     right: 0;
+ }
+ .circle2 {
+    height: 100%;
+    width: 100%;
+    background-color: orange;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.circle3 {
+    height: 100%;
+    width: 100%;
+    background-color: orange;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.circle4 {
+    height: 100%;
+    width: 100%;
+    background-color: orange;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center
+    
+}
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+    
+}
+.triangle2 {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+    
+}
+.triangle3 {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+    
+}
+.triangle4 {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid red;
+    
+}
